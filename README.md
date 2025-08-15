@@ -12,7 +12,6 @@ Now focused on **IT / technical support / junior development** roles — working
 C, C++, MySQL, Bash, Python (basic), Linux (Debian/Ubuntu), Git
 
 ## 📫 Contact
-- LinkedIn: [jim-koutsos-bb5629250](https://linkedin.com/in/jim-koutsos-bb5629250)
 - Email: jim.koutsos@protonmail.com
 
 > Tip: Pin the three repos above so they show on your profile.
